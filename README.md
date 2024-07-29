@@ -1,7 +1,6 @@
 
 #**Olá, sou Eliandro Nascimento!** 👋
 
-## 🚀 Sobre Mim
 🎓 **Economista** graduado pela Universidade Federal do Ceará (UFC)  
 💼 **Mentor de Carreira** no Grupo +Unidos  
 🛠️ **Experiência** de mais de 3 anos na área de vendas  
