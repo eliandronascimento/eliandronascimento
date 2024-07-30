@@ -13,7 +13,7 @@
 
 
 <h2 align="center">"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"</h2>
-<p <span style="font-family:'Calibri'">"Jorge Paulo Lemann"</p>
+<p align="center" <span style="font-family:'Calibri'">"Jorge Paulo Lemann"</p>
 
 
 
