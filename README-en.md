@@ -18,7 +18,6 @@
 🌱 **Passionate about continuous learning and innovation**  
 🎯 **Objective:** Contribute to transforming Brazil into a better country
 
-## 🔧 Technologies & Tools
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
