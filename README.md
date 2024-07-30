@@ -12,8 +12,8 @@
 </table>
 
 
-<h1 align="center">"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"<br></h1>
-<p align="center">Jorge Paulo Lemann </p>
+<h1 align="center">"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"</h1>
+<p align="center">Jorge Paulo Lemann <br></p>
 
 
 
