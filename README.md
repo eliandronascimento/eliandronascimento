@@ -12,7 +12,7 @@
 </table>
 
 
-## 🔧 Tecnologias & Ferramentas<p align="center">## 🚀 Sobre Mim"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"<br><br>Jorge Paulo Lemann</p>&nbsp;
+## "Sonhar grande ou sonhar pequeno dá o mesmo trabalho"s<p align="center"><br><br>Jorge Paulo Lemann</p>&nbsp;
 
 
 
