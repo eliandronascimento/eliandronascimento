@@ -12,12 +12,11 @@
 </table>
 
 
-<p align="center">## 🚀 Sobre Mim"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"<br><br>Jorge Paulo Lemann</p>&nbsp;
+## 🔧 Tecnologias & Ferramentas<p align="center">## 🚀 Sobre Mim"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"<br><br>Jorge Paulo Lemann</p>&nbsp;
 
 
 
 ## 🚀 Sobre Mim
-
 🎓 **Economista** graduado pela Universidade Federal do Ceará (UFC)  
 🛠️ **Experiência** de mais de 3 anos em vendas e sucesso do cliente  
 💼 **Voluntário** no Grupo +Unidos  
