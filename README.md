@@ -4,14 +4,13 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=;Economista;Lifelong+Learner;Amor+pela+Educação;Inovador;Voluntário;Leitor;Persistente;Apaixonado+por+Tecnologia;" alt="Economista, Lifelong Learner, Amor pela Educação, Inovador, Voluntário, Leitor, Persistente, Apaixonado por Tecnologia"></a>
 </div>
-"<p align="center"> <img src="https://komarev.com/ghpvc/?username=eliandronascimento&label=Eliandro's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>"
+
 
 <table align="right">
  <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README-en.md"><img src="./assets/usa_flag.png" alt="USA flag" width="17px"> English</a></td></tr>
  <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README.md"><img src="./assets/bra_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
 </table>
-<p align="center">"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"
-Jorge Paulo Lemann</p>&nbsp;
+<p align="center">"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"<br><br>Jorge Paulo Lemann</p>&nbsp;
 
 
 ## 🚀 Sobre Mim
@@ -50,6 +49,8 @@ Jorge Paulo Lemann</p>&nbsp;
 
 ## 💬 Entre em Contato
 Se você deseja discutir oportunidades de colaboração ou tem alguma dúvida, sinta-se à vontade para entrar em contato!
+
+"<p align="center"> <img src="https://komarev.com/ghpvc/?username=eliandronascimento&label=Visitas%20ao%20Perfil%20de%20Eliandro%20&color=dc143c&style=plastic" alt="eliandronascimento" /> </p>"
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="./assets/footer_pt.png"></div>
