@@ -2,10 +2,10 @@
 <h1 align="center">Olá, sou Eliandro Nascimento!👋 </h1>
 
 
-
+## 🚀 Sobre Mim
 🎓 **Economista** graduado pela Universidade Federal do Ceará (UFC)  
-💼 **Mentor de Carreira** no Grupo +Unidos  
-🛠️ **Experiência** de mais de 3 anos na área de vendas  
+🛠️ **Experiência** de mais de 3 anos na área de vendas e sucesso do cliente 
+💼 **Voluntário** no Grupo +Unidos   
 🌱 **Apaixonado por aprendizado contínuo e inovação**  
 🎯 **Objetivo:** Contribuir para transformar o Brasil em um país melhor
 
@@ -17,20 +17,20 @@
 
 
 
-## 📈 GitHub Stats
-![Eliandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliandronascimento&show_icons=true&theme=radical)
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub do Eliandro](https://github-readme-stats.vercel.app/api?username=eliandronascimento&show_icons=true&theme=radical)
 
-## 🔗 Conecte comigo
+## 🔗 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliandro-nascimento/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eliandronascimento)
 
 
-## 📝 Latest Blog Posts
+## 📝 Últimos Posts do Blog
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## 💬 Get in Touch
-Se você deseja discutir oportunidades de colaboração ou tem alguma dúvida, não hesite em entrar em contato!
+## 💬 Entre em Contato
+Se você deseja discutir oportunidades de colaboração ou tem alguma dúvida, sinta-se à vontade para entrar em contato!
 
 ---
 
