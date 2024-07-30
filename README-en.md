@@ -42,7 +42,7 @@
 ## 💬 Get in Touch
 If you want to discuss collaboration opportunities or have any questions, feel free to reach out!
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eliandronascimento&label=Visitas%20ao%20Perfil%20de%20Eliandro%20&color=dc143c&style=plastic" alt="eliandronascimento" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eliandronascimento&label=Eliandro's%20Profile%20Visits%20&color=dc143c&style=plastic" alt="eliandronascimento" /> </p>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="./assets/footer_en.png"></div>
