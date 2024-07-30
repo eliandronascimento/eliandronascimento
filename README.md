@@ -11,8 +11,8 @@
  <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README.md"><img src="./assets/bra_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
 </table>
 
-## 🔧 Tecnologias & Ferramentas
 <p align="center">"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"<br><br>Jorge Paulo Lemann</p>&nbsp;
+## 🔧 Tecnologi
 
 
 ## 🚀 Sobre Mim
