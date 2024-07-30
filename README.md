@@ -42,6 +42,9 @@
 ## 💬 Entre em Contato
 Se você deseja discutir oportunidades de colaboração ou tem alguma dúvida, sinta-se à vontade para entrar em contato!
 
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="./assets/footer_pt.png"></div>
+
 ---
 
 *Este README foi gerado com inspirações de alguns dos melhores perfis do GitHub, incluindo [abhisheknaiidu](https://github.com/abhisheknaiidu), [martinheinz](https://github.com/MartinHeinz), e [kautukkundan](https://github.com/kautukkundan).* [16](https://martinheinz.dev), [17](https://github.com/kautukkundan/Awesome-Profile-README-templates)
