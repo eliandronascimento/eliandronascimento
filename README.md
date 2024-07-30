@@ -1,5 +1,23 @@
+<div id="top"></div>
+<div align="center" ><img alt="welcome to my profile!" width="100%" src="assets/header-en.png"></div>
 
-<h1 align="center">Olá, sou Eliandro Nascimento!👋 </h1>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=;Economista;Lifelong+Learner;Amor+pela+Educação;Inovador;Voluntário;Leitor;Persistente;Apaixonado+por+Tecnologia;" alt="Economista, Lifelong Learner, Amor pela Educação, Inovador, Voluntário, Leitor, Persistente, Apaixonado por Tecnologia"></a>
+</div>
+
+## 🚀 About Me
+<table align="right">
+ <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README-en.md"><img src="./assets/usa_flag.png" alt="USA flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README.md"><img src="./assets/bra_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
+</table>
+
+
+🎓 **Economist** graduated from the Federal University of Ceará (UFC)  
+🛠️ **Experience** of over 3 years in sales and customer success  
+💼 **Volunteer** at Grupo +Unidos  
+🌱 **Passionate about continuous learning and innovation**  
+🎯 **Objective:** Contribute to transforming Brazil into a better country
+
 
 
 ## 🚀 Sobre Mim
