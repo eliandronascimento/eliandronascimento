@@ -13,7 +13,7 @@
 
 
 <h2 align="center">"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"</h2>
-<p align="center">Jorge Paulo Lemann</p>
+<p <span style="font-family:'Calibri'">ABCDEFGHIJKLMNOPQRSTUVWXYZ-abcdefghijklmnopqrstuvwxyz-0123456789-Calibri</span><br />align="center" >Jorge Paulo Lemann</p>
 
 
 
