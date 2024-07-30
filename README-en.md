@@ -11,7 +11,7 @@
  <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README.md"><img src="./assets/bra_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
 </table>
 
-## 🚀 About Me
+
 🎓 **Economist** graduated from the Federal University of Ceará (UFC)  
 🛠️ **Experience** of over 3 years in sales and customer success  
 💼 **Volunteer** at Grupo +Unidos  
