@@ -4,6 +4,10 @@
 
 ## 🚀 Sobre Mim
 🎓 **Economista** graduado pela Universidade Federal do Ceará (UFC)  
+💼 **Mentor de Carreira** no Grupo +Unidos  
+🛠️ **Experiência** de mais de 3 anos em vendas  
+🌱 **Apaixonado por aprendizado contínuo e inovação**  
+🎯 **Objetivo:** Contribuir para transformar o Brasil em um país melhor  
 🛠️ **Experiência** de mais de 3 anos na área de vendas e sucesso do cliente 
 💼 **Voluntário** no Grupo +Unidos   
 🌱 **Apaixonado por aprendizado contínuo e inovação**  
