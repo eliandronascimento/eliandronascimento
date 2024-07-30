@@ -2,7 +2,7 @@
 <div align="center" ><img alt="welcome to my profile!" width="100%" src="assets/header-en.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=;Economist;Lifelong+Learner;Love+of+Education;Innovator;Volunteer;Reader;Persistent;Passionate+About+Technology;" alt="Economist, Lifelong Learner,Love of Education, Innovator, Volunteer, Reader, Persistent, Passionate About Technology"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=;Economist;Lifelong+Learner;Love+of+Education;Innovator;Volunteer;Reader;Persistent;Passionate+about+Technology;" alt="Economist, Lifelong Learner,Love of Education, Innovator, Volunteer, Reader, Persistent, Passionate about Technology"></a>
 </div>
 
 
