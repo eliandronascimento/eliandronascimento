@@ -6,8 +6,8 @@
 </div>
 
 <table align="right">
- <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README-en.md"><img src="./assets/usa_flag.png" alt="USA flag" width="15px"> English</a></td></tr>
- <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README.md"><img src="./assets/bra_flag.png" alt="Brazil flag" width="15px">  Português</a></td></tr>
+ <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README-en.md"><img src="./assets/usa_flag.png" alt="USA flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README.md"><img src="./assets/bra_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
 </table>
 
 <h2 align="center">"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"</h2>
