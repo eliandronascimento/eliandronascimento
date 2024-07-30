@@ -5,8 +5,12 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=;Economista;Lifelong+Learner;Amor+pela+Educação;Inovador;Voluntário;Leitor;Persistente;Apaixonado+por+Tecnologia;" alt="Economista, Lifelong Learner, Amor pela Educação, Inovador, Voluntário, Leitor, Persistente, Apaixonado por Tecnologia"></a>
 </div>
 
-<p align="center">Sonhar Grande ou Sonhar Pequeno Dá o Mesmo Trabalho</p>&nbsp;
 
+<p align="center">Sonhar grande ou sonhar pequeno dá o mesmo trabalho</p>&nbsp;
+<table align="right">
+ <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README-en.md"><img src="./assets/usa_flag.png" alt="USA flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README.md"><img src="./assets/bra_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
+</table>
 
 ## 🚀 Sobre Mim
 <table align="right">
