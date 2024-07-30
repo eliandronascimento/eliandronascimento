@@ -10,14 +10,11 @@
  <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README-en.md"><img src="./assets/usa_flag.png" alt="USA flag" width="17px"> English</a></td></tr>
  <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README.md"><img src="./assets/bra_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
 </table>
-<p align="center">"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"<br><br>Jorge Paulo Lemann</p>&nbsp;
+## <p align="center">"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"<br><br>Jorge Paulo Lemann</p>&nbsp;
 
 
 ## 🚀 Sobre Mim
 <table align="right">
- <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README-en.md"><img src="./assets/usa_flag.png" alt="USA flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README.md"><img src="./assets/bra_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
-</table>
 
 🎓 **Economista** graduado pela Universidade Federal do Ceará (UFC)  
 🛠️ **Experiência** de mais de 3 anos em vendas e sucesso do cliente  
@@ -49,8 +46,7 @@
 
 ## 💬 Entre em Contato
 Se você deseja discutir oportunidades de colaboração ou tem alguma dúvida, sinta-se à vontade para entrar em contato!
-
-"<p align="center"> <img src="https://komarev.com/ghpvc/?username=eliandronascimento&label=Visitas%20ao%20Perfil%20de%20Eliandro%20&color=dc143c&style=plastic" alt="eliandronascimento" /> </p>"
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eliandronascimento&label=Visitas%20ao%20Perfil%20de%20Eliandro%20&color=dc143c&style=plastic" alt="eliandronascimento" /> </p>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="./assets/footer_pt.png"></div>
