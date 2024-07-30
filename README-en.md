@@ -40,6 +40,8 @@
 ## 💬 Get in Touch
 If you want to discuss collaboration opportunities or have any questions, feel free to reach out!
 
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="./assets/footer_en.png"></div>
 ---
 
 *This README was generated with inspirations from some of the best GitHub profiles, including [abhisheknaiidu](https://github.com/abhisheknaiidu), [martinheinz](https://github.com/MartinHeinz), and [kautukkundan](https://github.com/kautukkundan).*
