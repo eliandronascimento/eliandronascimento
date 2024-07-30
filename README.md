@@ -11,8 +11,9 @@
  <tr><td><a href="https://github.com/eliandronascimento/eliandronascimento/blob/main/README.md"><img src="./assets/bra_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
 </table>
 
-<p align="center">"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"<br><br>Jorge Paulo Lemann</p>&nbsp;
-## 
+
+<p align="center">## 🚀 Sobre Mim"Sonhar grande ou sonhar pequeno dá o mesmo trabalho"<br><br>Jorge Paulo Lemann</p>&nbsp;
+
 
 
 ## 🚀 Sobre Mim
