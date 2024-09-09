@@ -15,7 +15,6 @@
 
 ## 🚀 Sobre Mim
 🎓 **Economista** graduado pela Universidade Federal do Ceará (UFC)  
-🛠️ **Experiência** de mais de 3 anos em vendas e sucesso do cliente  
 💼 **Voluntário** no Grupo +Unidos  
 🌱 **Apaixonado por aprendizado contínuo e inovação**  
 🎯 **Objetivo:** Contribuir para transformar o Brasil em um país melhor
