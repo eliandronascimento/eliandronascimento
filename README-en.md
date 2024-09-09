@@ -15,7 +15,6 @@
 
 ## 🚀 About Me
 🎓 **Economist** graduated from the Federal University of Ceará (UFC)  
-🛠️ **Experience** of over 3 years in sales and customer success  
 💼 **Volunteer** at Grupo +Unidos  
 🌱 **Passionate about continuous learning and innovation**  
 🎯 **Objective:** Contribute to transforming Brazil into a better country
