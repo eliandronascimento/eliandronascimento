@@ -45,6 +45,7 @@
 ## 🔗 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliandro-nascimento/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eliandronascimento)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@eliandronascimento)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eliandro02061998@gmail.com)
 
 Se você deseja discutir oportunidades de colaboração ou tem alguma dúvida, sinta-se à vontade para entrar em contato!
