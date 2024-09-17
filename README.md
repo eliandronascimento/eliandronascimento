@@ -38,17 +38,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliandronascimento&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
+## 📝 Artigos e Projetos
+- [Como fazer um bom README para o seu perfil no GitHub?](https://medium.com/@eliandronascimento/como-fazer-um-bom-readme-para-o-seu-perfil-no-github-ea02482ded39){:target="_blank"}
+- [Análise da Eficiência dos Gastos com Segurança no Brasil](https://github.com/eliandronascimento/Analise_Eficiencia_Gastos_Seguranca_BR){:target="_blank"}
+  
 ## 🔗 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliandro-nascimento/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eliandronascimento)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eliandro02061998@gmail.com)
 
-## 📝 Artigos e Projetos
-- [Como fazer um bom README para o seu perfil no GitHub?](https://medium.com/@eliandronascimento/como-fazer-um-bom-readme-para-o-seu-perfil-no-github-ea02482ded39){:target="_blank"}
-- [Análise da Eficiência dos Gastos com Segurança no Brasil](https://github.com/eliandronascimento/Analise_Eficiencia_Gastos_Seguranca_BR){:target="_blank"}
-  
-## 💬 Entre em Contato
 Se você deseja discutir oportunidades de colaboração ou tem alguma dúvida, sinta-se à vontade para entrar em contato!
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eliandronascimento&label=Visitas%20ao%20Perfil%20de%20Eliandro%20&color=dc143c&style=plastic" alt="eliandronascimento" /> </p>
