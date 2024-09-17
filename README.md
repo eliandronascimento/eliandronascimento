@@ -1,9 +1,8 @@
 <div id="top"></div>
-
 <div align="center" ><img alt="welcome to my profile!" width="100%" src="assets/header-pt.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=;Economista;Lifelong+Learner;Amor+pela+Educação;Inovador;Voluntário;Leitor;Persistente;Apaixonado+por+Tecnologia;" alt="Economista, Lifelong Learner, Amor pela Educação, Inovador, Voluntário, Leitor, Persistente, Apaixonado por Tecnologia"></a>
 </div>
 
 <table align="right">
@@ -46,7 +45,8 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eliandro02061998@gmail.com)
 
 ## 📝 Artigos e Projetos
-- [Como fazer um bom README para o seu perfil no GitHub?](https://medium.com/@eliandronascimento/como-fazer-um-bom-readme-para-o-seu-perfil-no-github-ea02482ded39)
+- [Como fazer um bom README para o seu perfil no GitHub?](https://medium.com/@eliandronascimento/como-fazer-um-bom-readme-para-o-seu-perfil-no-github-ea02482ded39){:target="_blank"}
+- [Análise da Eficiência dos Gastos com Segurança no Brasil](https://github.com/eliandronascimento/Analise_Eficiencia_Gastos_Seguranca_BR){:target="_blank"}
   
 ## 💬 Entre em Contato
 Se você deseja discutir oportunidades de colaboração ou tem alguma dúvida, sinta-se à vontade para entrar em contato!
