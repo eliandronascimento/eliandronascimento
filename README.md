@@ -39,8 +39,8 @@
 </div>
 
 ## 📝 Artigos e Projetos
-- [Como fazer um bom README para o seu perfil no GitHub?](https://medium.com/@eliandronascimento/como-fazer-um-bom-readme-para-o-seu-perfil-no-github-ea02482ded39){:target="_blank"}
-- [Análise da Eficiência dos Gastos com Segurança no Brasil](https://github.com/eliandronascimento/Analise_Eficiencia_Gastos_Seguranca_BR){:target="_blank"}
+- [Como fazer um bom README para o seu perfil no GitHub?](https://medium.com/@eliandronascimento/como-fazer-um-bom-readme-para-o-seu-perfil-no-github-ea02482ded39)
+- [Análise da Eficiência dos Gastos com Segurança no Brasil](https://github.com/eliandronascimento/Analise_Eficiencia_Gastos_Seguranca_BR)
   
 ## 🔗 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliandro-nascimento/)
