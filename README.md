@@ -2,7 +2,7 @@
 <div align="center" ><img alt="welcome to my profile!" width="100%" src="assets/header-pt.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=;Economista;Lifelong+Learner;Amor+pela+Educação;Inovador;Voluntário;Leitor;Persistente;Apaixonado+por+Tecnologia;" alt="Economista, Lifelong Learner, Amor pela Educação, Inovador, Voluntário, Leitor, Persistente, Apaixonado por Tecnologia"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=;Economista;Lifelong+Learner;Amor+pela+Educação;Inovador;Voluntário;Leitor;Persistente;Apaixonado+por+Tecnologia;" alt="Analista de Dados, Lifelong Learner, Apaixonado por Tecnologia, Persistente, Inovador, Voluntário, Leitor, Amor pela Educação"></a>
 </div>
 
 <table align="right">
@@ -15,9 +15,10 @@
 
 ## 🚀 Sobre Mim
 🎓 **Economista** graduado pela Universidade Federal do Ceará (UFC)  
+📚 **Cursando MBA em Data Science & Analytics na USP/Esalq**  
 💼 **Voluntário** no Grupo +Unidos  
 🌱 **Apaixonado por aprendizado contínuo e inovação**  
-🎯 **Objetivo:** Contribuir para transformar o Brasil em um país melhor
+🎯 **Objetivo:** Contribuir para transformar o Brasil em um país melhor  
 
 
 ## 🔧 Tecnologias & Ferramentas
