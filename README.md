@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mim
 🎓 **Economista** graduado pela Universidade Federal do Ceará (UFC)  
-📚 **Cursando MBA em Data Science & Analytics na USP/Esalq**  
+📚 **Cursando MBA em Data Science Analytics na USP/Esalq**  
 💼 **Voluntário** no Grupo +Unidos  
 🌱 **Apaixonado por aprendizado contínuo e inovação**  
 🎯 **Objetivo:** Contribuir para transformar o Brasil em um país melhor  
