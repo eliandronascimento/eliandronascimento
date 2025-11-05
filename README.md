@@ -2,11 +2,7 @@
 <div align="center" ><img alt="welcome to my profile!" width="100%" src="assets/header-pt.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=;Analista+de+Dados;Lifelong+Learner;Apaixonado+por+Tecnologia+e+Inovação;Persistente;Voluntário;Leitor;Amor+pela+Educação;" alt="Analista de Dados, Lifelong Learner, Apaixonado por Tecnologia e Inovação, Persistente, Voluntário, Leitor, Amor pela Educação"></a>
-</div>
-
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=;Economist;Lifelong+Learner;Love+of+Education;Innovator;Volunteer;Reader;Persistent;Passionate+about+Technology;" alt="Economist, Lifelong Learner,Love of Education, Innovator, Volunteer, Reader, Persistent, Passionate about Technology"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=;Economist;Lifelong+Learner;Love+of+Education;Innovator;Volunteer;Reader;Persistent;Passionate+about+Technology;" alt="Analista de Dados, Aprendiz Contínuo, Curioso por Tecnologia, Inovador, Resiliente, Voluntário, Leitor Ávido, Entusiasta da Educação Transformadora"></a>
 </div>
 
 <table align="right">
